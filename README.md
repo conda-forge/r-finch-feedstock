@@ -1,11 +1,11 @@
-About r-finch
-=============
+About r-finch-feedstock
+=======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-finch-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/ropensci/finch
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-finch-feedstock/blob/main/LICENSE.txt)
 
 Summary: Parse and create Darwin Core (<http://rs.tdwg.org/dwc/>) Simple and Archives. Functionality includes reading and parsing all the files in a Darwin Core Archive, including the datasets and metadata; read and parse simple Darwin Core files; and validation of Darwin Core Archives.
 
